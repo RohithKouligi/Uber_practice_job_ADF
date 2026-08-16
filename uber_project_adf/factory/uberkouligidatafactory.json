@@ -1,0 +1,15 @@
+{
+	"name": "uberkouligidatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c5fc11d4-56fc-4083-9bc1-180ce0f88613",
+		"tenantId": "0767f177-7abf-4603-a2fd-7606867acf56"
+	}
+}
